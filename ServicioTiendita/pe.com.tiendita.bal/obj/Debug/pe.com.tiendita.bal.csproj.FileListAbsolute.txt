@@ -1,0 +1,11 @@
+D:\net\Laboratorio Sem01\ServicioTiendita\pe.com.tiendita.bal\bin\Debug\pe.com.tiendita.bal.dll
+D:\net\Laboratorio Sem01\ServicioTiendita\pe.com.tiendita.bal\bin\Debug\pe.com.tiendita.bal.pdb
+D:\net\Laboratorio Sem01\ServicioTiendita\pe.com.tiendita.bal\bin\Debug\pe.com.tiendita.bo.dll
+D:\net\Laboratorio Sem01\ServicioTiendita\pe.com.tiendita.bal\bin\Debug\pe.com.tiendita.dal.dll
+D:\net\Laboratorio Sem01\ServicioTiendita\pe.com.tiendita.bal\bin\Debug\pe.com.tiendita.bo.pdb
+D:\net\Laboratorio Sem01\ServicioTiendita\pe.com.tiendita.bal\bin\Debug\pe.com.tiendita.dal.pdb
+D:\net\Laboratorio Sem01\ServicioTiendita\pe.com.tiendita.bal\obj\Debug\pe.com.tiendita.bal.csproj.AssemblyReference.cache
+D:\net\Laboratorio Sem01\ServicioTiendita\pe.com.tiendita.bal\obj\Debug\pe.com.tiendita.bal.csproj.CoreCompileInputs.cache
+D:\net\Laboratorio Sem01\ServicioTiendita\pe.com.tiendita.bal\obj\Debug\pe.com.tiendita.bal.csproj.CopyComplete
+D:\net\Laboratorio Sem01\ServicioTiendita\pe.com.tiendita.bal\obj\Debug\pe.com.tiendita.bal.dll
+D:\net\Laboratorio Sem01\ServicioTiendita\pe.com.tiendita.bal\obj\Debug\pe.com.tiendita.bal.pdb

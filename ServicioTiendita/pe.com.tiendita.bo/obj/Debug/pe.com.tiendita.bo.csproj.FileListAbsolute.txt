@@ -1,0 +1,6 @@
+D:\net\Laboratorio Sem01\ServicioTiendita\pe.com.tiendita.bo\bin\Debug\pe.com.tiendita.bo.dll
+D:\net\Laboratorio Sem01\ServicioTiendita\pe.com.tiendita.bo\bin\Debug\pe.com.tiendita.bo.pdb
+D:\net\Laboratorio Sem01\ServicioTiendita\pe.com.tiendita.bo\obj\Debug\pe.com.tiendita.bo.csproj.AssemblyReference.cache
+D:\net\Laboratorio Sem01\ServicioTiendita\pe.com.tiendita.bo\obj\Debug\pe.com.tiendita.bo.csproj.CoreCompileInputs.cache
+D:\net\Laboratorio Sem01\ServicioTiendita\pe.com.tiendita.bo\obj\Debug\pe.com.tiendita.bo.dll
+D:\net\Laboratorio Sem01\ServicioTiendita\pe.com.tiendita.bo\obj\Debug\pe.com.tiendita.bo.pdb
